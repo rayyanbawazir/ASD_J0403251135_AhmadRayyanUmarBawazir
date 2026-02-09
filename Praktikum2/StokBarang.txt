@@ -1,0 +1,4 @@
+B001,Indomie,50
+B002,Teh Botol,30
+B003,Gula,20
+B004,Teh,2
