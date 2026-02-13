@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 B001,Indomie,50
 B002,Teh Botol,30
 B003,Gula,20
 B004,Teh,2
+=======
+B001,Indomie,50
+B002,Teh Botol,30
+B003,Gula,20
+B004,Teh,2
+>>>>>>> c744d190a5836244c8bff4cb8754da85a643215d
