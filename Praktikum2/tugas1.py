@@ -1,5 +1,5 @@
 # ==========================================================
-# TUGAS HANDS-ON MODUL 1
+# TUGAS 1
 # Studi Kasus: Sistem Cek Ketersediaan Barang
 # Nama  : Ahmad Rayyan Umar Bawazir
 # NIM   : J0403251135
@@ -11,15 +11,6 @@ NAMA_FILE = "StokBarang.txt"
 # Fungsi: Membaca data dari file
 # ==============================
 def baca_stok(nama_file):
-    """
-    Membaca data stok dari file teks.
-    Format per baris: KodeBarang,NamaBarang,Stok
-
-    Output:
-    - stok_dict (dictionary)
-      key   = kode_barang
-      value = {"nama": nama_barang, "stok": stok_int}
-    """
     stok_dict = {}
 
     try:
