@@ -55,3 +55,5 @@ ll.reverse()
 
 print("Linked List setelah dibalik:")
 ll.display()
+
+print()
